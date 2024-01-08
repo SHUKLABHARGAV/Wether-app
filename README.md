@@ -1,5 +1,5 @@
 ****************************************
-***********API Integration **************
+********** API Integration *************
 ****************************************
 
 using async function and use .then promises and try and catch for the error detection 
